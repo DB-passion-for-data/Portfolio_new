@@ -222,3 +222,94 @@ EU has a significant contribution of $775.48M, growing by 286.26%, but the LATAM
 
 ![{B205FCF5-D070-4556-BB28-C700751A45A8}](https://github.com/user-attachments/assets/0c98de9c-2b3b-4be5-bfd1-cf131767855f)
 
+#### 1. Overall Performance Metrics
+- **Total Sales (NS)**: $3.74B, beating the benchmark (BM: $823.85M) with strong growth.
+- **Gross Margin (GM%)**: 38.08%, performing above the benchmark (BM: 36.49%) by +4.37%.
+- **Net Profit %**: -13.98%, significantly underperforming and falling short of the benchmark (BM: -6.63%).
+- **Forecast Accuracy**: 81.17%, an improvement of +1.2% from last year’s forecast accuracy (BM: 80.21%).
+
+#### 2. Key Metrics by Sub Zone
+##### Best Performing Regions:
+- **North America (NA)**: 
+  - **Net Sales (NS)**: $1.02B, contributing 27.4% of total sales.
+  - **GM%**: 45.0%, the highest of all sub-zones.
+  - **AtliQo Market Share (MS%)**: 4.9%, outperforming other regions.
+  - **Risk**: Excess Inventory (EI) warning with a 14.4% net error.
+  
+- **India**:
+  - **NS**: $945.3M (25.3% of total sales).
+  - **AtliQo MS%**: 13.3%, highest among all regions, indicating strong market dominance.
+  - **GM%**: 35.8% with an excess inventory risk (EI).
+
+#### Underperforming Regions:
+- **Rest of Asia (ROA)**:
+  - **Net Sales**: $788.7M.
+  - **GM%**: 31.1%, below the overall average.
+  - **Net Profit %**: -18.1%, a significant loss.
+  - **Risk**: Out of Stock (OOS) warning, impacting future sales.
+
+- **Northeast (NE)**:
+  - **NS**: $457.7M.
+  - **GM%**: 32.9%, net profit decline of -4%.
+  - **Risk**: OOS, with a significant net error of -55.5%.
+
+- **ANZ** (Australia & New Zealand):
+  - **NS**: $189.8M, the smallest contributor to overall sales.
+  - **GM%**: 39.5%, a reasonable gross margin, though still with a net profit loss of -7.4%.
+  - **Risk**: OOS warning, limiting growth potential.
+
+#### 3. Key Metrics by Channels
+- **Retailer**: Dominates with 71.53% of revenue, the most significant channel in terms of sales contribution.
+- **Direct**: Represents 17.8% of revenue, while **Distributor** channels contribute 10.67%, making up a smaller share.
+
+
+#### 4. Key Metrics by Customers
+##### Top Performing Customers:
+- **AtliQo Exclusive**:
+  - **Revenue Contribution (RC)**: 9.7%, highest among all customers.
+  - **GM%**: 46.01%, the best-performing customer with high profitability.
+  
+- **Flipkart**:
+  - **RC**: 3.7%, with a GM% of 42.14%.
+  
+- **AtliQo eStore**:
+  - **RC**: 8.1%, with a GM% of 36.88%.
+
+### Underperforming Customers:
+- **Sage**:
+  - **RC**: 3.4%, lower GM% of 31.53%.
+  - Shows declining profitability compared to peers.
+  
+- **Amazon**:
+  - **RC**: 13.3%, but GM% remains stagnant at 36.78%.
+  - Performance may need attention to improve margins.
+
+#### 5. Key Metrics by Products
+##### Top Performing Products:
+- **AQ BZ Allin1 Gen 2**:
+  - **RC**: 5.4% of total product sales.
+  - **GM%**: 38.51%, highest product GM%.
+
+- **AQ Home Allin1**:
+  - **RC**: 4.1%, with a GM% of 38.71%.
+  
+- **AQ Smash 1**:
+  - **RC**: 3.8%, GM% of 37.43%, a steady performer.
+
+#### Underperforming Products:
+- **AQ Smash 2**:
+  - **RC**: 4.1%, with GM% of 37.40%, indicating room for improvement in profitability.
+    
+#### 6. Trend Analysis
+- **PC Market Share**:
+  - AtliQo’s market share increased from 7.8% in 2018 to 9.9% in 2022, showing steady growth.
+  - Competitors (Dale, Innovo, Pacer) have relatively stable market shares.
+  
+- **Yearly Trend for Revenue, GM%, Net Profit%**:
+  - Revenue shows consistent growth, but net profit percentage continues to decline, highlighting the need for cost control or improved margins.
+## Key Takeaways
+- **Focus on India & North America**: These regions show the most potential with strong market shares and sales contribution, but need to manage net profit losses.
+- **Channel Strategy**: Retailer channels dominate, while Direct channels offer opportunities for growth and diversification.
+- **Product & Customer Focus**: AQ BZ Allin1 Gen 2 and AtliQo Exclusive lead in profitability, while products like AQ Smash 2 and customers like Sage need attention to improve their performance.
+- **Operational Improvements Needed**: Addressing excess inventory and out-of-stock warnings in key regions can help avoid missed sales opportunities and improve profitability.
+
